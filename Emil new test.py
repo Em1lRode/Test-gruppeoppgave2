@@ -9,7 +9,6 @@ print("\nDet har oppstått noen konfliktet innadd i teamet. Erling må prøve å
       "\n-----------------------")
 
 
-
 valg1 = input("Konflikt 1 - Hamdi og Jabir"
               "\nHvordan skal Erling løse dette? Alternativ 1 (Kalle inn til et felles møte) eller 2 (Avvente og håpe det ordner seg)?"
               "\n")
